@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376720769939",
+    "project_id": "mydigitalcard-814cc",
+    "storage_bucket": "mydigitalcard-814cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376720769939:android:642d40b24b3d2e445ade66",
+        "android_client_info": {
+          "package_name": "com.example.mydigitalcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376720769939-bf83u5007kjoockua6j894ur3c1jo79t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mydigitalcard",
+            "certificate_hash": "567052015b23e5cc3a648e7dc392124f5cfda0d1"
+          }
+        },
+        {
+          "client_id": "376720769939-k5qebktailv2fl82csrim5l81dqi1r2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKelphBXW1DbrY_YNG0xcADly7TcgAe_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376720769939-k5qebktailv2fl82csrim5l81dqi1r2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
